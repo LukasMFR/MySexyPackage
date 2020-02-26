@@ -6,6 +6,8 @@
 //  Copyright © 2020 Lukas Mauffré. All rights reserved.
 //
 
+// Lukas
+
 import Foundation
 
 public struct BigSexyService {
