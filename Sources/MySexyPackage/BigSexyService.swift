@@ -15,4 +15,8 @@ public struct BigSexyService {
     public static func doSomethingSpecial() {
         print("🎊 Something special happened 🎉")
     }
+    
+    public static func lukas() {
+        print("Lukas")
+    }
 }
